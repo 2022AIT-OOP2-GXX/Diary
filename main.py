@@ -7,6 +7,8 @@ diaries = [
   DiarySample(),
   NagataniDiary(),
   N2Diary(),
+  NagataniDiary(),
+  NagataniDiary(),
 ]
 
 for d in diaries:
