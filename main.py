@@ -5,6 +5,8 @@ from diaries.NagataniDiary import NagataniDiary
 diaries = [
   DiarySample(),
   NagataniDiary(),
+  NagataniDiary(),
+  NagataniDiary(),
 ]
 
 for d in diaries:
